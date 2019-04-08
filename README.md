@@ -6,3 +6,6 @@ Matias Brond
 
 Commands:
 
+| Compañero| GitHubProfile|
+| ----- | ---- |
+| Juani Filardo | JuaniFilardo |
